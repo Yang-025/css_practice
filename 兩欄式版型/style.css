@@ -1,0 +1,17 @@
+/* 要用float，一定要有寬 */
+.sidenbar{
+    float: left;
+    width: 20%;
+    background-color: aquamarine
+}
+
+/* 因為sidebar float往左了，main的部分使用 margin-left 往左推22% 製造2%的空間 */
+.main{
+    margin-left: 22%;
+    background-color: bisque
+}
+
+
+.banner{
+    background-color: aliceblue;
+}
