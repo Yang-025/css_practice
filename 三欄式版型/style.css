@@ -1,0 +1,26 @@
+/*要使用float一定要給寬度*/
+
+.sidebar1{
+    float: left;
+    width: 20%;
+    background-color: aquamarine;
+}
+
+
+.main{
+    width: 60%;
+    float: left;
+    background-color: bisque;
+}
+
+.sidebar2{
+    float: right;
+    width: 20%;
+    background-color:aliceblue;
+}
+
+
+.footer{
+    clear: both;
+    background-color: saddlebrown;
+}
