@@ -1,0 +1,15 @@
+
+h1 {
+    position: relative;
+    border-bottom: 1px dashed #999999;
+}
+
+h1 .date {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: .5em;
+    background-color: #E9E9E9;
+    color: black;
+    padding: 2px 7px 0 7px;
+}
